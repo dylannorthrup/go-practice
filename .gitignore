@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-go-practice
+go_practice
 
 # Test binary, built with `go test -c`
 *.test
